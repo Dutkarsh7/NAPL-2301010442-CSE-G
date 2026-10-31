@@ -1,0 +1,22 @@
+﻿=== RUN   TestDivide
+=== RUN   TestDivide/Valid_division
+=== RUN   TestDivide/Division_by_zero
+--- PASS: TestDivide (0.00s)
+    --- PASS: TestDivide/Valid_division (0.00s)
+    --- PASS: TestDivide/Division_by_zero (0.00s)
+=== RUN   TestSquareRoot
+=== RUN   TestSquareRoot/Valid_positive_number
+=== RUN   TestSquareRoot/Square_root_of_zero
+=== RUN   TestSquareRoot/Negative_number_error
+--- PASS: TestSquareRoot (0.00s)
+    --- PASS: TestSquareRoot/Valid_positive_number (0.00s)
+    --- PASS: TestSquareRoot/Square_root_of_zero (0.00s)
+    --- PASS: TestSquareRoot/Negative_number_error (0.00s)
+=== RUN   TestValidateInput
+=== RUN   TestValidateInput/Valid_non-empty_string
+=== RUN   TestValidateInput/Empty_string_error
+--- PASS: TestValidateInput (0.00s)
+    --- PASS: TestValidateInput/Valid_non-empty_string (0.00s)
+    --- PASS: TestValidateInput/Empty_string_error (0.00s)
+PASS
+ok  	experiment7_error_handling_testing	0.748s
