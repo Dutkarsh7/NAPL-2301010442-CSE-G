@@ -29,7 +29,7 @@ Each goroutine logs its startup, individual calculation steps, and completion. A
 To run the program:
 
 ```bash
-cd Experiment_6_Goroutines_Channels
+cd lab-04/experiment-06-goroutines-channels
 go run main.go
 ```
 

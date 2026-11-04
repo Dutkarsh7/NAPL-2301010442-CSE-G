@@ -48,7 +48,7 @@ To understand and implement error handling patterns in Go using the built-in `er
 ### Run the Main Program
 
 ```bash
-cd Experiment_7_Error_Handling_Testing
+cd lab-04/experiment-07-error-handling-testing
 go run main.go
 ```
 
